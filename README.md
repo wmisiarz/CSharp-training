@@ -6,6 +6,6 @@
 
       - via email: wmisiarz[at]gmail.com     
       - via phone: +48 881 690 069
-<!---
 
---->
+I have just started my journey into the C# language so all comments and advice are very welcome. :)
+
