@@ -1,0 +1,16 @@
+C:\Users\adalbird\source\repos\wmisiarz\wmisiarz\MatchGame\MatchGame\bin\Debug\MatchGame.exe.config
+C:\Users\adalbird\source\repos\wmisiarz\wmisiarz\MatchGame\MatchGame\bin\Debug\MatchGame.exe
+C:\Users\adalbird\source\repos\wmisiarz\wmisiarz\MatchGame\MatchGame\bin\Debug\MatchGame.pdb
+C:\Users\adalbird\source\repos\wmisiarz\wmisiarz\MatchGame\MatchGame\obj\Debug\MatchGame.csproj.AssemblyReference.cache
+C:\Users\adalbird\source\repos\wmisiarz\wmisiarz\MatchGame\MatchGame\obj\Debug\MatchGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\adalbird\source\repos\wmisiarz\wmisiarz\MatchGame\MatchGame\obj\Debug\MainWindow.g.cs
+C:\Users\adalbird\source\repos\wmisiarz\wmisiarz\MatchGame\MatchGame\obj\Debug\App.g.cs
+C:\Users\adalbird\source\repos\wmisiarz\wmisiarz\MatchGame\MatchGame\obj\Debug\MatchGame_MarkupCompile.cache
+C:\Users\adalbird\source\repos\wmisiarz\wmisiarz\MatchGame\MatchGame\obj\Debug\MatchGame_MarkupCompile.lref
+C:\Users\adalbird\source\repos\wmisiarz\wmisiarz\MatchGame\MatchGame\obj\Debug\MainWindow.baml
+C:\Users\adalbird\source\repos\wmisiarz\wmisiarz\MatchGame\MatchGame\obj\Debug\MatchGame.g.resources
+C:\Users\adalbird\source\repos\wmisiarz\wmisiarz\MatchGame\MatchGame\obj\Debug\MatchGame.Properties.Resources.resources
+C:\Users\adalbird\source\repos\wmisiarz\wmisiarz\MatchGame\MatchGame\obj\Debug\MatchGame.csproj.GenerateResource.cache
+C:\Users\adalbird\source\repos\wmisiarz\wmisiarz\MatchGame\MatchGame\obj\Debug\MatchGame.csproj.CoreCompileInputs.cache
+C:\Users\adalbird\source\repos\wmisiarz\wmisiarz\MatchGame\MatchGame\obj\Debug\MatchGame.exe
+C:\Users\adalbird\source\repos\wmisiarz\wmisiarz\MatchGame\MatchGame\obj\Debug\MatchGame.pdb
